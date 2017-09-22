@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">チャット</string>
+    <string name="action_transmission">送信</string>
+    <string name="spnPrompt">プロンプトのテキスト</string>
+</resources>
